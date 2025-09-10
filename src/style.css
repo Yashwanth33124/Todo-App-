@@ -1,0 +1,12 @@
+.headertitle{
+   font-size: 40px; 
+}
+.main{
+    padding: 50px;
+}
+.listtodo{
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(4,1fr);
+
+}
